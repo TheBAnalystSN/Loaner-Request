@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes>enforce_dot_walk_cross_scope_access=true</attributes>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
@@ -59,7 +59,7 @@
         <sys_scope display_value="Loaner Request">25168a83897b03107f44636bcee8771d</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_loaner_r_0_loaner_request_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-12 17:26:08</sys_updated_on>
+        <sys_updated_on>2026-10-12 22:47:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
